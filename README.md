@@ -1,1 +1,3 @@
-# UFOs
+# UFO's
+
+## Overview of the Project
