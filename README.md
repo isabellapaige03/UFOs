@@ -15,6 +15,7 @@
 
 •	To narrow your search, you can use multiple search filters at once. To do this, continue filling in the filters for your desired search and press enter. For example, below is a picture of what your screen would look like using two filters.
 
+<img width="946" alt="2filters (2)" src="https://user-images.githubusercontent.com/106712521/188753954-306ac15b-740b-43bd-a2ac-1a26a67137a0.png">
 
 
 •	 To refresh the webpage, click the UFO Sightings button on the top left corner of the page.
