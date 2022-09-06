@@ -13,6 +13,10 @@
 
 •	To narrow your search, you can use multiple search filters at once. To do this, continue filling in the filters for your desired search and press enter. For example, below is a picture of what your screen would look like using two filters.
 
+
+
 •	 To refresh the webpage, click the UFO Sightings button on the top left corner of the page.
+   
+   
    
    
