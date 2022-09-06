@@ -19,6 +19,9 @@
 
 
 •	 To refresh the webpage, click the UFO Sightings button on the top left corner of the page.
+
+<img width="233" alt="refresh" src="https://user-images.githubusercontent.com/106712521/188754115-05a6d694-5ad3-4fc4-98bb-9dce9c20e627.png">
+
    
    
    
