@@ -11,6 +11,8 @@
    
 •	Scroll down to the Filter Search, from here you can see the first filter is the date with the format "M/D/YYYY". Type in the date and press enter the data will be filtered for that specific date.
 
+<img width="223" alt="filter_search" src="https://user-images.githubusercontent.com/106712521/188753855-937bf538-1dab-4d60-acfb-28fbe52d7f46.png">
+
 •	To narrow your search, you can use multiple search filters at once. To do this, continue filling in the filters for your desired search and press enter. For example, below is a picture of what your screen would look like using two filters.
 
 
