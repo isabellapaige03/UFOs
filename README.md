@@ -2,7 +2,7 @@
 
 ## Overview of the Project
 
-  UFO Sightings is a webpage with documented sightings from all over the world. This webpage has a search function with multiple filters that allows you to sift through all the data. You can use it to search by the date, city, country, shape of UFO, duration of sighting and comments about the UFO. 
+  UFO Sightings is a webpage with documented sightings from all over the world. This webpage has a search function with multiple filters that allows you to sift through all the data. You can use it to search by the date, city, country, shape of UFO, and the duration of sighting of the UFO. 
 
 
 ## Results
@@ -21,6 +21,11 @@
 •	 To refresh the webpage, click the UFO Sightings button on the top left corner of the page.
 
 <img width="233" alt="refresh" src="https://user-images.githubusercontent.com/106712521/188754115-05a6d694-5ad3-4fc4-98bb-9dce9c20e627.png">
+
+## Summary
+
+   
+   In conclusion, the UFO Sightings webpage could be a very useful tool for ufologists. The webpage has different search filters you can use to narrow your search results. The search filters on the webpage make searching through data from all over the world easy.
 
    
    
